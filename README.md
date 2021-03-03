@@ -1,12 +1,12 @@
-Password Generator App
-======================
+Password Maker - Password.es
+============================
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/d047a615-edf1-4c4e-91d6-d84e82943256/big.png)](https://insight.sensiolabs.com/projects/d047a615-edf1-4c4e-91d6-d84e82943256)
 
 Demo
 ----
 
-A setup version is available for use at [http://passwords.ofdan.com/]
+A setup version is available for use at [https://password.es/]
 
 
 Installation
@@ -32,8 +32,7 @@ bin/console cache:clear --env=prod --no-debug
 
 c) Download
 -----------
-
-https://github.com/hackzilla/password-generator-app/archive/master.zip
+https://github.com/dcarrero/password-es/archive/master.zip
 
 
 Once installed run:
